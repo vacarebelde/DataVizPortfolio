@@ -1,0 +1,17 @@
+---
+title: "Messing up Data Visualization"
+author: "Ada Marquez Acevedo"
+date: "2025-02-20"
+categories: [assignment, code, ugly]
+image: "image.jpg"
+---
+
+This is a post with executable code.
+
+```{r}
+library(tidyverse)
+library(readxl)
+
+DairyConsumptionData <- read_excel("DairyConsumptionData.xlsx", 
+    skip = 5)
+```

@@ -16,4 +16,4 @@ about:
 
 ---
 
-About this blog
+Welcome to my blog to portray my wicked data science skills :)
